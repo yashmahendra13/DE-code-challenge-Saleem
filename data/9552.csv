@@ -1,0 +1,6 @@
+,inputs.boolean,inputs.city,inputs.country,inputs.post_code,inputs.state,inputs.street,attom_expanded_profile_report.row_id,attom_expanded_profile_report.client_id,attom_expanded_profile_report.attom_id,attom_expanded_profile_report.error
+0,False,Indianapolis,US,46227,IN,940 Tulip Dr,0,,28461481,
+1,False,Troutville,US,24175-6054,VA,68 Rocky Top Rd,1,,214628965,
+2,False,West Jefferson,US,43162,OH,3330 Taylor Blair Rd,2,,246515148,
+3,False,Orange Park,US,32065,FL,4254 Eagle Landing Parkway,3,,164680663,
+4,False,Chestnut Hill,US,2467,MA,140 commonwealth avenue,4,,202686834,

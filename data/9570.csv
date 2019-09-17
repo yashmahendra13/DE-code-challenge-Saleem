@@ -1,0 +1,11 @@
+,inputs.city,inputs.country,inputs.post_code,inputs.post_code_plus4,inputs.postcode,inputs.safety_flag,inputs.state,inputs.street,attom_expanded_profile_report.row_id,attom_expanded_profile_report.client_id,attom_expanded_profile_report.attom_id,attom_expanded_profile_report.error
+0,Lakeland,US,33812,5237,33812-5237,False,FL,3160 Otto Dr,0,,162278089,
+1,Indianapolis,US,46227,,46227,False,IN,940 Tulip Dr,1,,28461481,
+2,Troutville,US,24175,6054,24175-6054,False,VA,68 Rocky Top Rd,2,,214628965,
+3,West Jefferson,US,43162,,43162,False,OH,3330 Taylor Blair Rd,3,,246515148,
+4,Orange Park,US,32065,,32065,False,FL,4254 Eagle Landing Parkway,4,,164680663,
+5,Chestnut Hill,US,2467,,2467,False,MA,140 commonwealth avenue,5,,202686834,
+6,sartell,US,56377,,56377,False,MN,1644 pebble creek drive,6,,212775496,
+7,Trevor,US,53179,,53179,False,WI,29004 112th Pl,7,,53200641,
+8,Newton,US,28658,,28658,False,NC,3649 North Olivers Cross Road,8,,176723099,
+9,Englewood,US,80110,,80110,False,CO,3031 S Cherokee St,9,,146962509,

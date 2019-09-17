@@ -1,0 +1,6 @@
+,inputs.attom_avm.client_id,inputs.attom_avm.error,inputs.attom_avm.row_id,inputs.attom_expanded_profile_report.client_id,inputs.attom_expanded_profile_report.error,inputs.attom_expanded_profile_report.row_id,inputs.attom_id,inputs.inputs.attom_id,inputs.inputs.boolean,inputs.inputs.city,inputs.inputs.country,inputs.inputs.post_code,inputs.inputs.state,inputs.inputs.street,attom_commercial_pre_foreclosure.row_id,attom_commercial_pre_foreclosure.client_id,attom_commercial_pre_foreclosure.error,attom_commercial_recorder.row_id,attom_commercial_recorder.client_id,attom_commercial_recorder.error,attom_pre_foreclosure.row_id,attom_pre_foreclosure.client_id,attom_pre_foreclosure.error
+0,,,0,,,0,28461481,1,False,Indianapolis,US,46227,IN,940 Tulip Dr,0,,,0,,,0,,
+1,,,1,,,1,214628965,1,False,Troutville,US,24175-6054,VA,68 Rocky Top Rd,1,,,1,,,1,,
+2,,,2,,,2,246515148,1,False,West Jefferson,US,43162,OH,3330 Taylor Blair Rd,2,,,2,,,2,,
+3,,,3,,,3,164680663,1,False,Orange Park,US,32065,FL,4254 Eagle Landing Parkway,3,,,3,,,3,,
+4,,,4,,,4,202686834,1,False,Chestnut Hill,US,2467,MA,140 commonwealth avenue,4,,,4,,,4,,
